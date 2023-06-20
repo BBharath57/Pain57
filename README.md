@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pain57
-- 👀 I’m interested in exploiting testing
-- 🌱 I’m currently learning pen testing 
-- 📫 How to reach me no need
+- 👀 I’m interested in Ethical hacking 
+- 🌱 I’m currently fullstack java
+  
 
 <!---
 Pain57/Pain57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
