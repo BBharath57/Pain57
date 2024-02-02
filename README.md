@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pain57
 - 👀 I’m interested in Ethical hacking 
-- 🌱 I’m currently fullstack java
+- 🌱 I’m currently computer vision
   
 
 <!---
